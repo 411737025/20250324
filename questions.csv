@@ -1,0 +1,5 @@
+question,optionA,optionB,optionC,optionD,correct,type
+請問background(bgImage);是甚麼意思,設置背景,設置顏色,設置文字,設置邊框,設置背景,choice
+請問button2 = createButton('作品簡介');中的作品簡介是指?,按鈕位置,按鈕名稱,按鈕文字,按鈕連結,按鈕名稱,choice
+請問let seaweedCount = 30;是只設定多少海草數量,,,,,30,fill
+請問button1.size(100 50);代表按鈕的高是多少,,,,,50,fill
